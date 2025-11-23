@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\2025-2\TEPROO 2025 2\S12\SEMANA12-NRC 11376 BD - último\ProyectoBD1\.metadata\.plugins\org.eclipse.jdt.core
+344253378.index
+1865797976.index
+3255235122.index
